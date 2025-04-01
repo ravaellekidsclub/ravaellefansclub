@@ -1,5 +1,5 @@
-name: "RavaelleKids AWS CLI"
-author: "惡行之外線上看小鴨！(免費完整版) (2025) 帶字幕 • Beyond the Sin 790p高清"
+name: "惡行之外線上看小鴨！(免費完整版) (2025) 帶字幕 • Beyond the Sin 790p高清"
+author: "ravaelle"
 description: "Setup AWS CLI to use in github actions"
 branding:
   icon: 'thumbs-up'
